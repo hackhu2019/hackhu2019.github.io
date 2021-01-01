@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>胡先森的个人博客</title>
+  <icon>https://www.simplysay.xyz/icon.png</icon>
+  <subtitle>胡先森的个人博客</subtitle>
+  <link href="https://www.simplysay.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://www.simplysay.xyz/"/>
+  <updated>2021-01-01T14:47:05.353Z</updated>
+  <id>https://www.simplysay.xyz/</id>
+  
+  <author>
+    <name>未来的胡先森</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我为什么要写文章</title>
+    <link href="https://www.simplysay.xyz/2020/12/31/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E6%96%87%E7%AB%A0/"/>
+    <id>https://www.simplysay.xyz/2020/12/31/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E6%96%87%E7%AB%A0/</id>
+    <published>2020-12-31T08:58:56.000Z</published>
+    <updated>2021-01-01T14:47:05.353Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;﻿从 2018 年 10 月 21 日开始写一些东西，至今 216 天，写一篇关于写作的体会。&lt;/p&gt;
+&lt;h1 id=&quot;为什么要写文章？&quot;&gt;&lt;a href=&quot;#为什么要写文章？&quot; class=&quot;headerlink&quot; title=&quot;为什么要写文章？&quot;&gt;&lt;/a&gt;为什么要写文章</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

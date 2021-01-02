@@ -103,7 +103,9 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/hackhu2019/hackhu2019.github.io
+  branch: master
 
 # 外链优化
 nofollow: 
